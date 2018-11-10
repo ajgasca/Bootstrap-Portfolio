@@ -1,0 +1,45 @@
+body {
+    background-image: url(./images/green_gobbler.png);
+}
+#content-body {
+    background-color: #ffffff;
+    padding-bottom: 50px;
+    margin-bottom: 20px;
+}
+#header {
+    margin-left: 125px;
+    margin-top: 10px;
+}
+#navbar {
+    margin-right: 75px;
+}
+h1 {
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+    border-bottom-width: 2px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+#main-content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.profile-shot {
+    border-color: #4aaaa5;
+    border-width: 5px;
+    border-style: solid;
+}
+h5 {
+    background-color: #4aaaa5;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+}
+.btn-primary {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+}
+.card {
+    margin-bottom: 20px;
+}
